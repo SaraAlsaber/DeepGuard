@@ -1,0 +1,11 @@
+Mixed:
+Normal: 1669
+DoS: 2671
+Command: 525
+
+
+
+Mixed2:
+Normal: 1183
+DoS: 	909
+Command: 409
