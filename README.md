@@ -1,2 +1,2 @@
 # DeepGuard
-An Intrusion Detection Framework Utilizing Deep Learning Techniques. 
+An Intrusion Detection Framework for Operational Technology (OT) Utilizing Deep Learning Techniques. 
